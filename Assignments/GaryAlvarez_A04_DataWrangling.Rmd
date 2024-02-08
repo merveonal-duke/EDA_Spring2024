@@ -1,8 +1,5 @@
 ---
-title: "Assignment 4: Data Wrangling"
-author: "Gary Alvarez Mejia"
-output: pdf_document
-geometry: margin=2.54cm
+
 ---
 
 ## OVERVIEW
